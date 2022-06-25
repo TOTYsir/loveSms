@@ -1,2 +1,2 @@
 # loveSms
-Timed and Interesting SMS Sending Project Based on Java
+Interesting SMS Sending Project Based on Java
